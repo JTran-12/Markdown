@@ -9,3 +9,7 @@
 # <h5> Heading Level 5
 
 # <h6> Heading Level 6
+
+# <h2> Adding an Image
+
+![Image of GivingTree](https://drive.google.com/file/d/14kuadXY2Z6Eed-vrrQuyYdjm3gjFGJ4P/view?usp=sharing)
