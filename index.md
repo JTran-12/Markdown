@@ -3,4 +3,5 @@
 2. Click on index.md
 3. Edit the file 
 
-# <h2> Second heading
+# <h2> Adding image
+![Image of Giving Tree](giving tree.jpeg)
