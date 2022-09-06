@@ -1,7 +1,11 @@
 # <h1> Markdown Lesson
-1. Go to files chnaged
-2. Click on index.md
-3. Edit the file 
 
-# <h2> Adding image
-![Image of Giving Tree](giving tree.jpeg)
+# <h2> Heading Level 2
+
+# <h3> Heading Level 3
+
+# <h4> Heading Level 4
+
+# <h5> Heading Level 5
+
+# <h6> Heading Level 6
